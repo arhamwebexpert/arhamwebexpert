@@ -26,4 +26,9 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamwebexpert&layout=compact&theme=default)
 
+### Current Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamwebexpert&theme=default)
+
+
+
 
