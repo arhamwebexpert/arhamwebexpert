@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
 ### GitHub Stats:
-![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=default)
+![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhamwebexpert&show_icons=true&count_private=true&theme=default)
 
