@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=arhamwebexpert&style=flat-square)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=arhamwebexpert&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on Skin Progress tracker
