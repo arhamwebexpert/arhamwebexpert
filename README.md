@@ -110,9 +110,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="https://www.facebook.com/arham.mehmood.399499" target="_blank">
-<img src="./facebook.png" width=50 height=50 alt="Arham Mehmood" style="margin-bottom: 5px;" />
-</a>
+
 
 <a href="https://www.instagram.com/arhammehmood122/" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="arhammehmood122" style="margin-bottom: 5px;" />
