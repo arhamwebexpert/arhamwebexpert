@@ -33,6 +33,8 @@
 #### 🖥️ Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft-dynamics-365&logoColor=white"/>
 </p>
 
 #### 🧰 Libraries & Tools
