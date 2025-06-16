@@ -32,8 +32,7 @@
 
 #### 🖥️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,dotnet,dynamics365" />
 </p>
 
 #### 🧰 Libraries & Tools
